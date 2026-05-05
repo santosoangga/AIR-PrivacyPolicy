@@ -1,0 +1,6 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Air Project | Privacy Policy
+description: Privacy policy for our mobile field work apps. Learn how we collect, use, and protect employee data including photos and location information. Contact your admin for data deletion requests.
+show_downloads: false
